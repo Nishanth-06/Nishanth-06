@@ -7,7 +7,7 @@
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
 - 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp;-FrontEnd web developer.
+- 💼 &nbsp; FrontEnd web developer.
 
 
 
