@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development using MERN stack.
+- 🔭 &nbsp; Working on react-native and reactjs.
 - 🤖 &nbsp; Working on my DSA skills in C++ langauage.
-- 🤔 &nbsp; Exploring new technologies and developing websites.
-- 🎓 &nbsp; Pursuing B.E degree in Computer Science.
-- 💼 &nbsp; FrontEnd web developer.
+- 🤔 &nbsp; Exploring new technologies and developing websites and Apps.
+- 🎓 &nbsp; Pursued B.E degree in Computer Science.
+- 💼 &nbsp; FrontEnd End developer.
 
 
 
